@@ -1,6 +1,6 @@
 
 <div>
-  <img width="400px" align="right" src="https://github.com/AzamiWithLogic/AlexisWithlogic/avatar_contacto.png" />
+  <img width="400px" align="right" src="https://github.com/AzamiWithLogic/avatar_contacto.png" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
