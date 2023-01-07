@@ -1,12 +1,6 @@
 
-<a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="AzamiWithLogic" width="22px" src="https://cdn.AzamiWithLogic.com/icons/linkedinn.svg" />
-</a>
-
-</br>
-
 <div>
-  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <img width="400px" align="right" ="https://github.com/AzamiWithLogic/AlexisWithlogic/Menu.png" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
