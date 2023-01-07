@@ -1,6 +1,6 @@
 
 <a href="https://linkedin.com/in/tomas-ondrejka">
-  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+  <img align="left" alt="AzamiWithLogic" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
 </a>
 
 </br>
