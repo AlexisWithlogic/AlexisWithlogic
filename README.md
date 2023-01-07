@@ -1,8 +1,6 @@
-
-<div>
-  <img width="400px" align="right" src="https://github.com/AzamiWithLogic/https://github.com/AzamiWithLogic/avatar_contacto.png/avatar_contacto.png" />
-  <h2>⚡️ A Few Quick Facts</h2>
-  <ul>
+<p align="centro">
+<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/ >
+</p>
     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
     <li>🧐 Estudio programación.</li>
     <li>📝 I am often active on <a href="https://linkedin.com/in/tomas-ondrejka">LinkedIn</a>.</li>
