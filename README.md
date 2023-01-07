@@ -1,10 +1,10 @@
 
 <div>
-  <img width="400px" align="right" ="https://github.com/AzamiWithLogic/AlexisWithlogic/Menu.png" />
+  <img width="400px" align="right" src="https://github.com/AzamiWithLogic/AlexisWithlogic/Menu.png" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
-    <li>🧐 Studying for the AWS Solutions Associate exam.</li>
+    <li>🧐 Estudio programación.</li>
     <li>📝 I am often active on <a href="https://linkedin.com/in/tomas-ondrejka">LinkedIn</a>.</li>
 <!--     <li>📝 I regulary write articles on <a href="https://blog.tomondre.com">my blog</a>.</li> -->
     <li>💬 Ping me about <strong>Backend, CI/CD, Kubernetes, and Cloud stuff</strong>.</li>
