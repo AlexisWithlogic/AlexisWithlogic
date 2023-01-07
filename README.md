@@ -1,31 +1,28 @@
-### Hi there, I'm Alexis_With_logic
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
 
-<!--
-**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linkedin.com/in/tomas-ondrejka">
+  <img align="left" alt="Tomas Ondrejka LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+</a>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!---
+<div>
+  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+    <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
+    <li>🧐 Studying for the AWS Solutions Associate exam.</li>
+    <li>👨‍💻 Most of my projects are available on <a href="https://portfolio.tomondre.com">my portfolio website</a>.</li>
+    <li>📝 I am often active on <a href="https://linkedin.com/in/tomas-ondrejka">LinkedIn</a>.</li>
+<!--     <li>📝 I regulary write articles on <a href="https://blog.tomondre.com">my blog</a>.</li> -->
+    <li>💬 Ping me about <strong>Backend, CI/CD, Kubernetes, and Cloud stuff</strong>.</li>
+    <li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li>
+    <li>🎉 Fun Fact: I hate tomatoes.</li>
+  </ul>
+</div>
 
+</br>
+</br>
 
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tomondre&show_icons=true&theme=great-gatsby" alt="tomondre" />
+
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tomondre.tomondre" />
