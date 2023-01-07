@@ -1,5 +1,5 @@
 <p align="centro">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/ >
+<img src="https://github.com/AzamiWithLogic/AlexisWithlogic/blob/main/origen/avatar_contact.png" alt="ShanBot-MD-V1" width="900"/ >
 </p>
     <li>🔭 I’m currently working on infrastructure for <a target="_blank" href="https://spaces.qualcomm.com/">Snapdragon Spaces XR Developer Platform</a>.</li>
     <li>🧐 Estudio programación.</li>
